@@ -26,6 +26,5 @@ Here are the results for Lot 2. We cannot reject the null hypothesis here.
 ![B9B0153D-D012-4D91-A4CC-8764DB44EAAE](https://user-images.githubusercontent.com/112785655/210908231-ee17105a-ae73-4a84-aff0-0689cdc89110.jpeg)
 
 Finally here are the results for Lot 3 which does permit us to reject the null hypothesis
-
-
+We are allowed to reject the null hypothesis becayse, the p value is under the significance level of 0.05 and the mean of lot 3 is not statistically similar to the population mean of 1500.
 ![0E63938D-18CB-483A-AFF1-D2A4502C1E7A](https://user-images.githubusercontent.com/112785655/210908300-182bfc1a-395c-4cc7-a5a0-1fa3003cc3c4.jpeg)
