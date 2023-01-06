@@ -1,9 +1,11 @@
 # MechaCarChallenge
 
-For this analyzed we analyzed data from an automotive manufacturing company "AutosRU". 
-Their most recent design is suffering from production issues.
-This analysis is designed to provide more insights to mitigate these issues. ![02D1BF0C-0698-4316-BCEB-954DC69005AB](https://user-images.githubusercontent.com/112785655/210905546-7f2076c4-4cf3-4c7a-987c-e7f51ff9cd87.jpeg)
+For this analyzed we analyzed data from an automotive manufacturing company 
+Their most recent design is suffering from production issues. This can pose as a safety hazard and can potentially put lives in danger if not addressed properly.
+This analysis is designed to provide more insights to mitigate these issues.
 Here we performed our linear regression which is used to predict the value of a variable based on the value of another variable.
+![02D1BF0C-0698-4316-BCEB-954DC69005AB](https://user-images.githubusercontent.com/112785655/210905546-7f2076c4-4cf3-4c7a-987c-e7f51ff9cd87.jpeg)
+
 
 Next we performed our statictics summary on the suspension coils as total_summary
 The design specifications require that the variance of the suspension coils
