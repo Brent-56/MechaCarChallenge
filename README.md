@@ -16,10 +16,11 @@ The variance in the total summary seems to be in good standing.
 
 Next we were required to perform a summary for each individual lot. ![1B9FA1FE-DF85-49B2-AC2F-550AEDE9EE34](https://user-images.githubusercontent.com/112785655/210907342-d6845fc0-a50e-46fe-908f-c4a0b8f5410a.jpeg)
 Here we can see that lots 1 and 2 are well below the threshold but lot 3 is not. 
-Lot 3 is does not meet the requirements. T
+Lot 3 is does not meet the requirements. 
 
 Finally we had to address T testing. Below are the results for test for all the lots as a whole. Due to the P value being what it is we now know we cant reject the null hypothesis ![4E5E14A7-6996-4BD3-A9C3-CA643717D1D0](https://user-images.githubusercontent.com/112785655/210907944-00d52a4a-3d08-4d5b-bdc3-757e857bf9b8.jpeg)
-Here are results for Lot 1![525EFD35-0FA1-403B-92C6-E85DFF758C16](https://user-images.githubusercontent.com/112785655/210908196-0804b5c9-3946-46fe-88a3-52962e9da21c.jpeg)
+Here are results for Lot 1. Based on the results we are not permitted to reject the null hypothesis. 
+![525EFD35-0FA1-403B-92C6-E85DFF758C16](https://user-images.githubusercontent.com/112785655/210908196-0804b5c9-3946-46fe-88a3-52962e9da21c.jpeg)
 
 Here are the results for Lot 2. We cannot reject the null hypothesis here. 
 ![B9B0153D-D012-4D91-A4CC-8764DB44EAAE](https://user-images.githubusercontent.com/112785655/210908231-ee17105a-ae73-4a84-aff0-0689cdc89110.jpeg)
